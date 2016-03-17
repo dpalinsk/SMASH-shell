@@ -1,4 +1,4 @@
-/* @kwalter2 & @dpalinsk
+/* @dpalinsk
  * smash.c
  * Stop Mucking Around SHell
  * GET SMASHED!
@@ -346,7 +346,7 @@ void intro(){
 		printf("%13s ____) | |  | |/ ____ \\ ____) | |  | |\n", space);
 		printf("%13s|_____/|_|  |_/_/    \\_\\_____/|_|  |_|\n\n", space);
 		printf("%10sThe Stop Mucking Around SHell - GET SMASHED!\n", space);
-		printf("%13sBy: Derek Palinski and Katerina Walter\n\n", space); 
+		printf("%13sBy: Derek Palinski\n\n", space); 
 	}
 
 int main (){
